@@ -11,6 +11,9 @@ class Addition
                 int num1,num2,res;
                 Scanner s =new Scanner(System.in);
 		n1=25;
+		     //Tis is first comment
+                Scanner s =new Scanner(System.in);
+                //Scanner class contains nextInt() which reads the integer value
                 Scanner s =new Scanner(System.in);
                 System.out.println("Enter num1 value");
                 System.out.println("Enter num1 value");
